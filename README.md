@@ -25,7 +25,7 @@
     </head>
     <body>
 
-    <h1>All about rabbits!</h1>
+    <h1>All about all rabbits!</h1>
     
     <h2>Songs</h2>
     
