@@ -1,1 +1,49 @@
-# SafaaElKhayari.gethub.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSS font-family property</title>
+        <style>
+        
+        h2 {
+            color: rgb(0, 232, 15);
+        }  
+        
+        #rabbits-info-heading {
+            background-color: purple;
+        }
+        
+        p {
+            color: rgb(191, 0, 255);
+        }
+        
+        .song-lyrics {
+            background-color: yellow;
+        }
+        
+        </style>
+    </head>
+    <body>
+
+    <h1>All about rabbits!</h1>
+    
+    <h2>Songs</h2>
+    
+    <p class="song-lyrics">Little Bunny Foo Foo, <br>
+I don't want to see you <br>
+scooping up the field mice <br>
+and bopping them on the head!</p>
+    
+    <p class="song-lyrics">And down came the Good Fairy <br>
+And she said <br>
+"Little bunny Foo Foo <br>
+I don't like you're attitude <br>
+Scooping up the field mice <br>
+And bopping 'em on the head" <br>
+    </p>
+    
+   
+    
+    
+    </body>
+</html>
